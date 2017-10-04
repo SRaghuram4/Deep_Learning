@@ -16,7 +16,7 @@ Phase 1
     - Understand, run, tweak 'tf_estimator.py'
     - Understand, run, tweak, 'mnist_beginner_softmax.py'
     - Get a sense of the data-set MNIST 'view_MNIST_data.py'
-    * Understand, run, tweak, 'mnist_expert_softmax.py'
+    - Understand, run, tweak, 'mnist_expert_softmax.py'
 
 Phase 2
 
@@ -26,12 +26,12 @@ Phase 2
    
    - Steps
     - Identify a new data-set (CIFAR 10)
-    * Prepare data-set
-    * Build model
-    * Tweak model / no. of layers / learning rate / error function / 
+    - Prepare data-set
+    - Build model
+    - Tweak model / no. of layers / learning rate / error function / 
 
 Phase 3
 
   - Objective
-    * Install Keras
-    * Familiarize Keras with tutorials
+    - Install Keras
+    - Familiarize Keras with tutorials

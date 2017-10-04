@@ -8,7 +8,7 @@ Phase 1
       - https://www.tensorflow.org/get_started/get_started
       - https://www.tensorflow.org/get_started/mnist/beginners
       - https://www.tensorflow.org/get_started/mnist/pros
-     - Should be comfortable with tf framework and understanding tf code.
+    - Should be familiar with tf-framework and in understanding tf code.
      
   - Steps
     - Validate installation of tensorflow 'validate_tensorflow.py'

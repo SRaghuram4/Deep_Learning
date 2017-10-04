@@ -5,6 +5,7 @@ Phase 1
   - Objective
     - Install tf
     - Familiarize tf with tutorials
+      - https://www.tensorflow.org/get_started/get_started
       - https://www.tensorflow.org/get_started/mnist/beginners
       - https://www.tensorflow.org/get_started/mnist/pros
      - Should be comfortable with tf framework and understanding tf code.

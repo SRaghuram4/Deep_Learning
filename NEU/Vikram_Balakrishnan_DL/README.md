@@ -1,37 +1,3 @@
 # Deep_Learning 
 
-Phase 1
-
-  - Objective
-    - Install tf
-    - Familiarize tf with tutorials
-      - https://www.tensorflow.org/get_started/get_started
-      - https://www.tensorflow.org/get_started/mnist/beginners
-      - https://www.tensorflow.org/get_started/mnist/pros
-     - Should be comfortable with tf framework and understanding tf code.
-     
-  - Steps
-    - Validate installation of tensorflow 'validate_tensorflow.py'
-    - Understand, run, tweak 'tf_core.py' 
-    - Understand, run, tweak 'tf_estimator.py'
-    - Understand, run, tweak, 'mnist_beginner_softmax.py'
-    - Get a sense of the data-set MNIST 'view_MNIST_data.py'
-    - Understand, run, tweak, 'mnist_expert_softmax.py'
-
-Phase 2
-
-  - Objective
-    - Use a new dataset with code from phase 1 as a template
-    - Should be able to work with nay generic image data-set by end of this phase
-   
-   - Steps
-    - Identify a new data-set (CIFAR 10)
-    - Prepare data-set
-    - Build model
-    - Tweak model / no. of layers / learning rate / error function / 
-
-Phase 3
-
-  - Objective
-    - Install Keras
-    - Familiarize Keras with tutorials
+This directory has been organized by the phases of my learning. The file 'Phases.txt' would contain the objective and steps taken to achieve it. It would also point to relevant code file at a given step.
